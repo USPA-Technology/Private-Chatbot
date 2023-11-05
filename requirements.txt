@@ -1,5 +1,6 @@
 langchain==0.0.274
 gpt4all==1.0.8
+pysqlite3-binary
 chromadb==0.4.7
 llama-cpp-python==0.1.81
 urllib3==2.0.4
